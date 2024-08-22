@@ -44,15 +44,6 @@ micname=Microphone
   - A small GUI window appears when the microphone is muted, which is positioned based on the coordinates in `xpos` and `ypos` in the `settings.ini`.
 - **Audio Feedback**: The script plays the audio files (`muteX.mp3` and `unmuteX.mp3`) when muting or unmuting, depending on the selected soundpack.
 
-## Audio Files
-
-  The following audio files are used to provide feedback for muting and unmuting the microphone. You can listen to sample files here:
-
-    - [mute1.mp3]((https://github.com/TheNave8or/MicMute/raw/main/mute1.mp3)/): Audio cue played when the microphone is muted.
-    - [mute2.mp3](https://github.com/TheNave8or/MicMute/raw/main/mute2.mp3/): Alternative audio cue played when the microphone is muted (used based on the selected soundpack).
-    - [unmute1.mp3](https://github.com/TheNave8or/MicMute/raw/main/unmute1.mp3/) Audio cue played when the microphone is unmuted.
-    - [unmute1.mp3](https://github.com/TheNave8or/MicMute/raw/main/unmute2.mp3/): Alternative audio cue played when the microphone is unmuted (used based on the selected soundpack).
-
 ## Default hotkeys
 
 - `F1`: Toggle microphone mute/unmute (or the key set in `settings.ini`).
