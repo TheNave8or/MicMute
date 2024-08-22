@@ -5,7 +5,6 @@ This AutoHotkey (AHK) script provides a simple way to manage your microphone's m
 ## Requirements
 
 - **AutoHotkey Version**: This script requires **AutoHotkey v1** to run.
-- **Virtual Audio Cable (VA)**: The script uses functions from the `VA.ahk` library to control audio settings. Ensure `VA.ahk` is included in the same directory as the script.
 
 ## Files Included
 
